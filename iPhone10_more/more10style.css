@@ -149,6 +149,11 @@ h4{
   border-radius: 8px;
 }
 
+.space_2_2 img{
+  position: relative;
+  left: 25vw;
+}
+
 .space_3{
   background: url(img/long.jpg);
   background-color: rgb(227,227,227);
